@@ -10,8 +10,7 @@ Prerequisites
 nvm use 22
 n8n
 
-Open:
-http://localhost:5678
+
 
 2. Import the ACTRA Workflow
 1. Open n8n.
